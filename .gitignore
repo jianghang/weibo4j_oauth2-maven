@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target/
+/weibo4j_oauth2.iml
+/weibo.log
+/.idea/
